@@ -6,7 +6,7 @@
 export default {
     data() {
         return {
-            message: 'Hello Vue JS!'
+            message: 'Hello Vue JS! 4444'
         };
     }
 };
